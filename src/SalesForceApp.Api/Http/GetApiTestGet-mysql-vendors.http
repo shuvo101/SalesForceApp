@@ -1,0 +1,4 @@
+### GET /api/test/get-mysql-vendors Request
+
+GET http://localhost:5086/api/test/get-mysql-vendors
+
